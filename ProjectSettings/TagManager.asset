@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ControladorDeEditor
+  - ImagenObjeto
+  - Caja
+  - Manzanas
+  - Jugador
+  - Planta
+  - CajaPesada
+  - BalaPlanta
+  - PlantaCabeza
+  - CajaDestruida
+  - Naranjas
+  - MurcielagoNCabeza
+  - CabezaHongo
+  - Boton1
+  - Pinchos
+  - Cuerda
+  - Cuerda2
+  - Cuerda3
+  - Cuerda4
+  - Cuerda5
+  - Meta
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Suelo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
